@@ -3,7 +3,6 @@ import os
 import json
 import csv
 import re
-import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.ticker import FuncFormatter
