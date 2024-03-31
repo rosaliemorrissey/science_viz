@@ -4,7 +4,6 @@ import json
 import csv
 import re
 import numpy as np
-from matplotlib.ticker import FuncFormatter
 import altair as alt
 import streamlit as st
 from collections import defaultdict, Counter
